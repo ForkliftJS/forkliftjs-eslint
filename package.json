@@ -1,0 +1,36 @@
+{
+  "name": "eslint-config-forkliftjs",
+  "version": "0.1.0",
+  "description": "ForkliftJS' ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forkliftjs/forkliftjs-eslint"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "forkliftjs",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Nicky van Meurs <nicky.van.meurs@just-bi.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forkliftjs/forkliftjs-eslint/issues"
+  },
+  "homepage": "https://github.com/forkliftjs/forkliftjs-eslint",
+  "devDependencies": {
+    "babel-tape-runner": "^1.3.1",
+    "eslint": "^2.3.0",
+    "eslint-plugin-react": "^4.2.0",
+    "react": "^0.14.7",
+    "tape": "^4.5.1",
+    "parallelshell": "^2.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.2.0",
+    "eslint-plugin-react": "^4.0.0"
+  }
+}
