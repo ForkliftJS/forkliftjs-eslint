@@ -1,7 +1,8 @@
 <a href="https://github.com/forkliftjs"><img width="192" height="192" src="https://github.com/ForkliftJS/docs/raw/master/images/logos/logo.png" alt="ForkliftJS" /></a>
-# eslint-config-forkliftjs
 
-[![npm version](https://badge.fury.io/js/eslint-config-forkliftjs.svg)](https://badge.fury.io/js/eslint-config-forkliftjs)
+[![Join the chat at https://gitter.im/ForkliftJS/forkliftjs](https://badges.gitter.im/ForkliftJS/forkliftjs.svg)](https://gitter.im/ForkliftJS/forkliftjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![npm version](https://badge.fury.io/js/eslint-config-forkliftjs.svg)](https://badge.fury.io/js/eslint-config-forkliftjs)
+
+# eslint-config-forkliftjs
 
 This package provides a modified version of Airbnb's .eslintrc as an extensible shared config.
 
